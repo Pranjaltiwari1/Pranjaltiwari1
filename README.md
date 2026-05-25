@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <h1>👨‍💻 Full-Stack Developer | 🌟 Data Analyst</h1>
+  <h1>👨‍💻 Data Engineer | 🌟 Data Analyst | Front-End Development</h1>
   <h3>🚀 Transforming Ideas into Scalable Digital Solutions</h3>
   
   <p>
