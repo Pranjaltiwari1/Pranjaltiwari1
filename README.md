@@ -149,7 +149,7 @@
 ## 🔥 GitHub Streak  
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=akshit040504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=pranjaltiwari1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
     <img src="https://github-readme-stats.vercel.app/api?username=akshit040504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
   </picture>
 </div>
