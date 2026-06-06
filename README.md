@@ -34,10 +34,10 @@
     <td style="width: 60%; vertical-align: top;">
       Hey there, happy meeting you !!  
       <ul>
-        <li>🧑‍🎓 I'm a 4<sup>th</sup> year B.Tech Computer Science from Vellore Institute of Technology, India.</li>
-        <li>👩‍💻 My technical interests include Software Development and Engineering and Data Analytics.</li>
-        <li>👍 I thrive when collaborating with diverse teams and love diving into emerging technologies. Tackling challenging problems is something I truly enjoy!</li>
-      </ul>
+  <li>🧑‍🎓 I'm a 4<sup>th</sup> year B.Tech Computer Science student at VIT Bhopal University, India.</li>
+  <li>💻 My technical interests include Data Analytics, Data Engineering, and Software Development.</li>
+  <li>🚀 I enjoy building data-driven solutions, exploring emerging technologies, and solving challenging real-world problems while collaborating with diverse teams.</li>
+</ul>
     </td>
     <td style="width: 40%; text-align: center;">
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWFkNm9zbW9yc3hhZG5hNTVzY2lneGZvemdwd2g1NThhNTNhNjQ1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="250" alt="Coding Cat GIF"/>
