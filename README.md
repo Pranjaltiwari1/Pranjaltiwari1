@@ -55,10 +55,14 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
+    </td> 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java
+    </td>
+        <td align="center" width="96">
+       	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" alt="Hadoop" title="Hadoop"/>
+      <br>Hadoop
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
