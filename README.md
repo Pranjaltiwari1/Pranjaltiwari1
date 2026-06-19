@@ -57,8 +57,8 @@
       <br>C++
     </td> 
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+       <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/></code>
+      <br>Apache Spark
     </td>
         <td align="center" width="96">
        	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" alt="Hadoop" title="Hadoop"/>
@@ -91,8 +91,8 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      <br>Express.js
+   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/yarn.png" alt="yarn" title="yarn"/>
+      <br>Yarn
     </td>
   </tr>
   <tr>
@@ -121,17 +121,25 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+	  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hive.png" alt="Hive" title="Hive"/>
+      <br>Hive
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+      <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/>
+      <br>Kafka
     </td>
+    <td align="center" width="96">
+	  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+	 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
+     <br>Databricks
+  </td>
   </tr>
 </table>
 <br><br>
